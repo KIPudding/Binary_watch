@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,MY-2450-03,1,2450 Battery_Cell,C2988622
+"C1, C2",0603,2,15pf, C1644
+C3,0201,1,0.1 µF,C49062
+C4,0402,1,10 µF, C15525
+"D0, D1, D2, D3, D4, D5, D6, D7, D8, D9",0603,10,RED,C5355430
+"GND1, RESET1, VCC1",TestPoint_Pad_2.0x2.0mm,3,TestPoint,
+"GS1, GS2, S1, S2, S3",TestPoint_Pad_2.0x2.0mm,5,~,
+GS3,TestPoint_Pad_1.5x1.5mm,1,~,
+"R0, R1, R2, R3, R4, R5, R6, R7, R8, R9",0603,10,50Ω,C23197
+U1,VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,1,ATtiny1616-M, C507118
+Y1,FC31M2-32.768-NTLNNDTL,1,Crystal, C5120559
